@@ -1,16 +1,16 @@
-# Compiled class file
+# add a Compiled class file
 *.class
 
-# Log file
+# add a Log file
 *.log
 
-# BlueJ files
+# add a BlueJ files
 *.ctxt
 
-# Mobile Tools for Java (J2ME)
+# add a Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-# Package Files #
+# add a Package Files #
 *.jar
 *.war
 *.nar
@@ -19,5 +19,5 @@
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+# add a virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
